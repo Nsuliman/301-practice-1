@@ -1,0 +1,29 @@
+body {
+    box-sizing: border-box;
+    text-align: center;
+}
+header {
+    color: white;
+    background-color: black;
+}
+
+footer {
+    color: black;
+    background-color: darkgrey;
+}
+
+main {
+    color: darkblue;
+    background-color: wheat;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    margin: 100px ;
+    border: 5px solid aqua;
+}
